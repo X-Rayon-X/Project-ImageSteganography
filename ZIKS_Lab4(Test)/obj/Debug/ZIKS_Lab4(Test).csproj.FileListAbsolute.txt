@@ -1,0 +1,15 @@
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\bin\Debug\ZIKS_Lab4(Test).exe.config
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\bin\Debug\ZIKS_Lab4(Test).exe
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\bin\Debug\ZIKS_Lab4(Test).pdb
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).csproj.AssemblyReference.cache
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\MainWindow.g.cs
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\App.g.cs
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test)_MarkupCompile.cache
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test)_MarkupCompile.lref
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\MainWindow.baml
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).g.resources
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4_Test_.Properties.Resources.resources
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).csproj.GenerateResource.cache
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).csproj.CoreCompileInputs.cache
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).exe
+C:\Users\bakay\source\repos\ZIKS_Lab4(Test)\ZIKS_Lab4(Test)\obj\Debug\ZIKS_Lab4(Test).pdb
